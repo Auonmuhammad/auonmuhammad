@@ -1,0 +1,13 @@
+.hover-box {
+    padding: 5px 10px; /* Adjust padding as needed */
+    text-decoration: none;
+    color: #333; /* Text color */
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.hover-box:hover {
+    border-color: #333; /* Border color on hover */
+    background-color: #f0f0f0; /* Background color on hover */
+    color: #000; /* Text color on hover */
+}
